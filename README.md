@@ -60,6 +60,7 @@ print(classification_rep)
 ```
 
 <H3>Output:</H3>
+
 ![image](https://github.com/abinayasangeetha/EX-6-NN/assets/119393675/26c8c914-3b60-484e-bc1c-22986cde23e4)
 
 
